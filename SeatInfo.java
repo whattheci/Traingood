@@ -1,7 +1,7 @@
 package com.example.traingood;
 
 /**
- * Created by pacilo on 2017. 8. 31..
+ * Created by  on 2017. 8. 31..
  */
 
 public class SeatInfo {
